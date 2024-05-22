@@ -1,5 +1,5 @@
 .body {
-    background-image: url('https://i.postimg.cc/x9MyhM3D/react-system.webp');
+    background-image: url('https://wallpaperaccess.com/full/4084422.png');
     background-position: center;
     background-size: cover;
     color: white;
@@ -11,7 +11,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 90vh;
   }
   
   .profile__container {
@@ -27,7 +27,7 @@
   }
   
   .card:hover {
-    box-shadow: 0 0 0.125rem 0.125rem #61dafb;
+    box-shadow: 0 0 0.125rem 0.125rem #fb61cf;
   }
   
   .card__header,
@@ -55,7 +55,7 @@
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-    background-color: rgba(40, 44, 52, 0.875);
+    background-color: rgba(8, 11, 16, 0.875);
     padding: 1rem;
   }
   
@@ -80,7 +80,7 @@
   
   .card__body-presentation::before,
   .card__body-presentation::after {
-    content: '❤';
+    content: '⚽';
   }
   
   .card__footer-nav-list {
